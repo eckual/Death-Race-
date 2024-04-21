@@ -126,6 +126,6 @@ public class AimGun : MonoBehaviour
         {
             OnCantShoot?.Invoke();
         }
-
     }
+    
 }
