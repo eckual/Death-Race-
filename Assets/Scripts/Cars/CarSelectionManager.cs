@@ -114,6 +114,7 @@ public class CarSelectionManager : MonoBehaviour
     }
 }
 
+
 [Serializable]
 public class Car
 {
