@@ -12,7 +12,6 @@ public class CarSelectionHandler : MonoBehaviour
         if (instance == null)
         {
             instance = this;
-
             DontDestroyOnLoad(gameObject);
         }
         else
